@@ -26,6 +26,9 @@ namespace example1
             Console.WriteLine("My name is {0}",name);
             Console.WriteLine("The time is "+date.ToShortDateString());
             Console.WriteLine("The value of flag is "+flag.ToString());
+            int i;
+            i = Convert.ToInt32(flag);
+            Console.WriteLine(i);
 
             Console.ReadKey();
         }
