@@ -1,0 +1,6 @@
+C:\Users\c4rlosc7\Desktop\Learning-c-sharp\Conditional\Conditional\bin\Debug\Conditional.exe.config
+C:\Users\c4rlosc7\Desktop\Learning-c-sharp\Conditional\Conditional\bin\Debug\Conditional.exe
+C:\Users\c4rlosc7\Desktop\Learning-c-sharp\Conditional\Conditional\bin\Debug\Conditional.pdb
+C:\Users\c4rlosc7\Desktop\Learning-c-sharp\Conditional\Conditional\obj\Debug\Conditional.csprojResolveAssemblyReference.cache
+C:\Users\c4rlosc7\Desktop\Learning-c-sharp\Conditional\Conditional\obj\Debug\Conditional.exe
+C:\Users\c4rlosc7\Desktop\Learning-c-sharp\Conditional\Conditional\obj\Debug\Conditional.pdb
