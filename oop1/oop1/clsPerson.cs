@@ -8,13 +8,14 @@ namespace oop1
 {
     public class clsPerson
     {
-        public string Name;
+        public string Name { get; set; }
 
-        public string LastName;
+        public string LastName { get; set; }
 
-        public int Age;
+        public int Age { get; set; }
 
-        // CONSTRUCTOR 
+
+        // CONSTRUCTOR PERSON
         public clsPerson()
         {
             Name = "";
@@ -24,7 +25,7 @@ namespace oop1
 
         public string info()
         {
-            return "Name: " + Name + " LastName: " + LastName + " Age: " + Age;
+            return "Name: " + Name + " LastName: " + LastName + " Age: " + Age + " ";
         }
     }
 }
